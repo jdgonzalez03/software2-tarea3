@@ -1,0 +1,5 @@
+Línea 1: Hola mundo
+Línea 2: hola hola
+Línea 4: hola
+
+La palabra 'hola' apareció 4 veces en el archivo.

@@ -1,0 +1,4 @@
+hola: 4
+apto: 2
+pato: 2
+mundo: 1
